@@ -11,6 +11,6 @@ Dataset Source: https://www.kaggle.com/datasets/bvanntruong/housing-sql-project
 
   Power BI Report: https://app.powerbi.com/reportEmbed?reportId=7659c006-1221-4755-a005-56d0539385d9
 
--- project approach Project Approach_ETL and Visualization for Nashville Housing
+-- project approach Project Approach_ETL and Visualization for Nashville Housing.pptx
   
 -- README.md
