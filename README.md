@@ -10,5 +10,7 @@ Dataset Source: https://www.kaggle.com/datasets/bvanntruong/housing-sql-project
 -- reports NV_housing_PowerBI_analysis + visualize.pbix
 
   Power BI Report: https://app.powerbi.com/reportEmbed?reportId=7659c006-1221-4755-a005-56d0539385d9
+
+-- project approach ETL and Visualization for Nashville Housing
   
 -- README.md
