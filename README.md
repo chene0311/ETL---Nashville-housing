@@ -1,5 +1,5 @@
 # ETL---Nashville-housing
-A project showcasing SQL queries, data cleaning, and Power BI dashboards to analyze and visualize sales data.
+A project demonstrating SQL queries, data cleaning, stored procedures, and Power BI dashboards for sales data analysis and visualization.
 
 Dataset Source: https://www.kaggle.com/datasets/bvanntruong/housing-sql-project
 
